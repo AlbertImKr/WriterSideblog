@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4c504df6">
+        <description>Created after removal of "Empty MD Topic" from Instance Name</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="6556d68f">
+        <description>Created after removal of "자바 11에서의 작은 변경 사항" from Instance Name</description>
+        <accepts>자바 11에서의 작원 변경 사항.html</accepts>
+    </rule>
+    <rule id="2a03831d">
+        <description>Created after removal of "클래스 파일" from 책</description>
+        <accepts>클래스-파일.html</accepts>
+    </rule>
+</rules>
