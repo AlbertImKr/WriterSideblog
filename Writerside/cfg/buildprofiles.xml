@@ -8,10 +8,12 @@
     </variables>
     <build-profile instance="in">
         <variables>
+            <primary-color>strawberry</primary-color>
             <header-logo>book.png</header-logo>
             <custom-favicons>favicon.png</custom-favicons>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
         </variables>
+        <sitemap priority="0.35" change-frequency="weekly"/>
     </build-profile>
     <footer>
         <social type="blog" href="https://albertblog.tistory.com/">Tistory Blog</social>
