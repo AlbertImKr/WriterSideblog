@@ -4,6 +4,7 @@
 
 <instance-profile id="in" name="블로그" start-page="starter.md">
     <toc-element topic="starter.md">
+        <toc-element topic="메이븐.md"/>
         <toc-element topic="프로그래밍-언어.md"/>
         <toc-element topic="가비지-컬렉션.md"/>
         <toc-element topic="성능-튜닝의-중요성.md"/>
