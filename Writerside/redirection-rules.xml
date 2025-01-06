@@ -22,4 +22,8 @@
         <description>Created after removal of "The Well-Grounded Java Developer" from 책</description>
         <accepts>The-Well-Grounded-Java-Developer.html</accepts>
     </rule>
+    <rule id="3cd2cf01">
+        <description>Created after removal of "Fork/Join 프레임워크와 CompletableFuture" from 블로그</description>
+        <accepts>고급-동시성-프로그래밍.html</accepts>
+    </rule>
 </rules>
