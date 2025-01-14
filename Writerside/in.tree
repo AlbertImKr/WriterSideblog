@@ -4,6 +4,7 @@
 
 <instance-profile id="in" name="블로그" start-page="starter.md">
     <toc-element topic="starter.md">
+        <toc-element topic="인증-방법-Cookies-and-Sessions-JWT-PASETO.md"/>
         <toc-element topic="메서드-호출.md"/>
         <toc-element topic="Fork-Join-프레임워크와-CompletableFuture.md"/>
         <toc-element topic="고급-함수형-프로그래밍.md"/>
