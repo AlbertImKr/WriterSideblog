@@ -131,6 +131,10 @@ mkcert -pkcs12 -p12-file keystore.p12 localhost
 mkcert -install
 ```
 
+> 만약, 시스템 신뢰 저장소에 인증서를 설치하지 않으면 브라우저에서 경고 메시지가 나타납니다.
+> 그리고 여러 Java Version를 사용하는 경우, Java Version에 따라 인증서를 설치해야 합니다.
+> {style="note"}
+
 3. `application.yml` 파일에 다음과 같이 SSL 설정을 추가합니다.
 
 ```yaml
