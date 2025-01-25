@@ -4,6 +4,7 @@
 
 <instance-profile id="in" name="블로그" start-page="starter.md">
     <toc-element topic="starter.md">
+        <toc-element topic="Social-로그인-구현-Spring-Security.md"/>
         <toc-element topic="Spring-AuthorizationServer를-사용한-인증-서버-구축.md"/>
         <toc-element topic="mkcert-Spring-Boot를-사용하여-Localhost에서-HTTPS를-사용하는-방법.md"/>
         <toc-element topic="인증-방법-Cookies-and-Sessions-JWT-PASETO.md"/>
